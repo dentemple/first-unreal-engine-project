@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"C:/Users/Den/Dev/FirstUnrealProject/.vs": true,
+		"C:/Users/Den/Dev/FirstUnrealProject/.vscode": true,
+		"C:/Users/Den/Dev/FirstUnrealProject/Content": true,
+		"C:/Users/Den/Dev/FirstUnrealProject/Intermediate": true,
+		"C:/Users/Den/Dev/FirstUnrealProject/Saved": true
+	}
+}
